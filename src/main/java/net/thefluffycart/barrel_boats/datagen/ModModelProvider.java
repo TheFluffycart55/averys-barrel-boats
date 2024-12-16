@@ -17,7 +17,7 @@ public class ModModelProvider extends FabricModelProvider {
 
     }
 
-    //GAHHHHH
+    //Push 2
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(ModItems.ACACIA_BARREL_BOAT, Models.GENERATED);
