@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "plushies",
+    "key": {
+        "B": "#minecraft:boats",
+        "G": "minecraft:gray_wool",
+        "T": "minecraft:terracotta"
+    },
+    "pattern": [
+        "BGB",
+        "GTG",
+        "BGB"
+    ],
+    "result": {
+        "count": 1,
+        "id": "barrel_boats:thefluffycart_plushie"
+    }
+}

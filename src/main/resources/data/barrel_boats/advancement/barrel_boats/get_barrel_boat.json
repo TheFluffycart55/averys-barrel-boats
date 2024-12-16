@@ -1,0 +1,33 @@
+{
+  "parent": "barrel_boats:barrel_boats/root",
+  "criteria": {
+    "nether_boat_get": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#barrel_boats:barrel_boats"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.boats.get_barrel_boat.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "barrel_boats:oak_barrel_boat_chest_boat"
+    },
+    "title": {
+      "translate": "advancements.boats.get_barrel_boat.title"
+    }
+  },
+  "requirements": [
+    [
+      "nether_boat_get"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_boat": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "boats"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/spruce_planks.png",
+    "description": {
+      "translate": "advancements.boats.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "barrel_boats:oak_barrel_boat_chest_boat"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.boats.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_boat"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

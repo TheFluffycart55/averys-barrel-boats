@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "transportation",
+    "group": "barrel_boat",
+    "ingredients": [
+        "minecraft:barrel",
+        "minecraft:mangrove_boat"
+    ],
+    "result": {
+        "count": 1,
+        "id": "barrel_boats:mangrove_barrel_boat_chest_boat"
+    }
+}

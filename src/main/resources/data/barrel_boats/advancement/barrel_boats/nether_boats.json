@@ -1,0 +1,33 @@
+{
+  "parent": "barrel_boats:barrel_boats/root",
+  "criteria": {
+    "nether_boat_get": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#barrel_boats:nether_boats"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.boats.nether_boats.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "barrel_boats:crimson_boat"
+    },
+    "title": {
+      "translate": "advancements.boats.nether_boats.title"
+    }
+  },
+  "requirements": [
+    [
+      "nether_boat_get"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

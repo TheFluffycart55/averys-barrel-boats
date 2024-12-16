@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "barrel_boats",
+	"version": "${version}",
+	"name": "Avery's Barrel Boats",
+	"description": "Adding in Barrel Boat variants, based on the Eucalyptus Barrel boat from Litavis",
+	"authors": [
+		"TheFluffycart55"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/barrel_boats/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.thefluffycart.barrel_boats.AverysBarrelBoats"
+		],
+		"fabric-datagen": [
+			"net.thefluffycart.barrel_boats.AverysBarrelBoatsDataGenerator"
+		],
+		"client": [
+			"net.thefluffycart.barrel_boats.AverysBarrelBoatsClient"
+		]
+	},
+	"mixins": [
+		"barrel_boats.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

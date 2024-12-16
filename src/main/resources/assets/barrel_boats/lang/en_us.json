@@ -1,0 +1,57 @@
+{
+  "item.barrel_boats.acacia_barrel_boat_chest_boat": "Acacia Boat with Barrel",
+  "item.barrel_boats.bamboo_barrel_raft_chest_raft": "Bamboo Boat with Barrel",
+  "item.barrel_boats.birch_barrel_boat_chest_boat": "Birch Boat with Barrel",
+  "item.barrel_boats.cherry_barrel_boat_chest_boat": "Cherry Boat with Barrel",
+  "item.barrel_boats.dark_oak_barrel_boat_chest_boat": "Dark Oak Boat with Barrel",
+  "item.barrel_boats.jungle_barrel_boat_chest_boat": "Jungle Boat with Barrel",
+  "item.barrel_boats.mangrove_barrel_boat_chest_boat": "Mangrove Boat with Barrel",
+  "item.barrel_boats.oak_barrel_boat_chest_boat": "Oak Boat with Barrel",
+  "item.barrel_boats.pale_oak_barrel_boat_chest_boat": "Pale Oak Boat with Barrel",
+  "item.barrel_boats.spruce_barrel_boat_chest_boat": "Spruce Boat with Barrel",
+
+  "item.barrel_boats.warped_boat": "Warped Boat",
+  "item.barrel_boats.warped_barrel_boat_chest_boat": "Warped Boat with Barrel",
+  "item.barrel_boats.warped_chest_boat": "Warped Boat with Chest",
+  "item.barrel_boats.crimson_boat": "Crimson Boat",
+  "item.barrel_boats.crimson_barrel_boat_chest_boat": "Crimson Boat with Barrel",
+  "item.barrel_boats.crimson_chest_boat": "Crimson Boat with Chest",
+
+  "item.barrel_boats.bamboo_boat": "Bamboo Boat",
+  "item.barrel_boats.bamboo_barrel_boat_chest_boat": "Bamboo Boat with Barrel",
+  "item.barrel_boats.bamboo_chest_boat": "Bamboo Boat with Chest",
+
+  "entity.barrel_boats.acacia_barrel_boat_chest_boat": "Acacia Boat with Barrel",
+  "entity.barrel_boats.bamboo_barrel_raft_chest_raft": "Bamboo Boat with Barrel",
+  "entity.barrel_boats.birch_barrel_boat_chest_boat": "Birch Boat with Barrel",
+  "entity.barrel_boats.cherry_barrel_boat_chest_boat": "Cherry Boat with Barrel",
+  "entity.barrel_boats.dark_oak_barrel_boat_chest_boat": "Dark Oak Boat with Barrel",
+  "entity.barrel_boats.jungle_barrel_boat_chest_boat": "Jungle Boat with Barrel",
+  "entity.barrel_boats.mangrove_barrel_boat_chest_boat": "Mangrove Boat with Barrel",
+  "entity.barrel_boats.oak_barrel_boat_chest_boat": "Oak Boat with Barrel",
+  "entity.barrel_boats.pale_oak_barrel_boat_chest_boat": "Pale Oak Boat with Barrel",
+  "entity.barrel_boats.spruce_barrel_boat_chest_boat": "Spruce Boat with Barrel",
+
+  "entity.barrel_boats.warped_boat": "Warped Boat",
+  "entity.barrel_boats.warped_barrel_boat_chest_boat": "Warped Boat with Barrel",
+  "entity.barrel_boats.warped_chest_boat": "Warped Boat with Chest",
+  "entity.barrel_boats.crimson_boat": "Crimson Boat",
+  "entity.barrel_boats.crimson_barrel_boat_chest_boat": "Crimson Boat with Barrel",
+  "entity.barrel_boats.crimson_chest_boat": "Crimson Boat with Chest",
+
+  "entity.barrel_boats.bamboo_boat": "Bamboo Boat",
+  "entity.barrel_boats.bamboo_barrel_boat_chest_boat": "Bamboo Boat with Barrel",
+  "entity.barrel_boats.bamboo_chest_boat": "Bamboo Boat with Chest",
+
+  "block.barrel_boats.thefluffycart_plushie": "TheFluffycart Plushie",
+
+  "advancements.boats.root.description": "Now with 50% more Boat",
+  "advancements.boats.root.title": "Avery's Barrel Boats",
+  "advancements.boats.nether_boats.description": "Craft a boat from Nether Wood",
+  "advancements.boats.nether_boats.title": "Hell and Back",
+  "advancements.boats.get_barrel_boat.description": "Put a Barrel in a Boat",
+  "advancements.boats.get_barrel_boat.title": "Do a Barrel Roll!",
+
+
+  "itemgroup.barrel_boats": "Avery's Barrel Boats"
+}

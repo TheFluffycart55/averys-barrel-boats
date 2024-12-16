@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "barrel_boats:item/pale_oak_barrel_boat_chest_boat"
+  }
+}

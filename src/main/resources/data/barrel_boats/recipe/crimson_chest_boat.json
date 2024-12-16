@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "transportation",
+    "group": "chest_boat",
+    "ingredients": [
+        "minecraft:chest",
+        "barrel_boats:crimson_boat"
+    ],
+    "result": {
+        "count": 1,
+        "id": "barrel_boats:crimson_chest_boat"
+    }
+}

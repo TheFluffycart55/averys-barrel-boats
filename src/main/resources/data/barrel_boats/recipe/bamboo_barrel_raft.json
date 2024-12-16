@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "transportation",
+    "group": "barrel_boat",
+    "ingredients": [
+        "minecraft:barrel",
+        "minecraft:bamboo_raft"
+    ],
+    "result": {
+        "count": 1,
+        "id": "barrel_boats:bamboo_barrel_raft_chest_raft"
+    }
+}
